@@ -1,0 +1,50 @@
+h1 {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 70px;
+    font-weight: 200px;
+    background-color: magenta;
+    border: solid 5px black;
+    background-image: url(gatitens.jpg);
+    background-size: 120px;
+
+}
+
+h2 {
+     color: gold;
+}
+
+* {
+    color: tomato;
+}
+
+li {
+    color: teal;
+}
+
+a {
+    color: blueviolet;
+}
+
+#caca {
+    color: black;
+}
+
+/* body {
+    background-image: url(aang.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    background-position: 10mm;
+}  */
+
+body {
+    background-color: honeydew
+}
+
+#casa {
+    color: black;
+}
+
+#pedocaca {
+    color: black;
+}
